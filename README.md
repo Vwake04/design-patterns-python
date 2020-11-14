@@ -1,2 +1,1 @@
-<br>
-## Design is an ART.
+# Design is an ART
