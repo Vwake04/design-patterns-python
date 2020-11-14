@@ -1,2 +1,2 @@
-# design-patterns-python <br>
+<br>
 ## Design is an ART.
